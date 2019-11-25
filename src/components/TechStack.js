@@ -1,10 +1,8 @@
 import React from 'react';
-import styles from './Techstack.css';
+import styles from './TechStack.css';
 
 
 const TechStack = () => {
-
-
 
   return (
     <>
