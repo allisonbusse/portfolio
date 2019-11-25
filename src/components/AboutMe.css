@@ -1,0 +1,38 @@
+.AboutMe {
+
+  display: flex;
+  width: 75wv;
+  margin: 5em auto 0;
+  justify-content: space-evenly;
+  align-items: center;
+
+  .bio {
+    border-radius: 12px;
+    padding: 10px 20px;
+    opacity: 0.8;
+  }
+
+  p {
+    color: #622413;
+    font-size: 1.7em;
+  }
+
+  .two {
+    color: #a35c3c;
+  }
+
+  .three {
+    color: #D06A3D 
+  }
+
+  .four {
+    color: rgb(199, 158, 136);
+  }
+
+  img {
+    width: 20vw;
+    border-radius: 30%;
+    border-right: solid 6px #1a3c3f;
+    border-bottom: solid 6px #1a3c3f;
+  }
+}

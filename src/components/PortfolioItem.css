@@ -1,0 +1,23 @@
+.PortfolioItem {
+  background-color: #a35c3c;
+  width: 60vw;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+
+  img {
+    width: 35vw;
+    border-radius: 8px;
+    
+  }
+
+  .text {
+    width: 20vw;
+    font-size: 18px;
+  }
+
+  a {
+    text-transform: uppercase;
+    font-size: 1.2em;
+  }
+}

@@ -1,0 +1,35 @@
+.Contact {
+  background-color: #7A979A;
+  padding: 40px 100px;
+  margin-top: 100px;
+  p {
+    margin: 0;
+    font-size: 20px;
+  }
+  h2 {
+    margin-top: 0.2em;
+    color: #FBE1C9;
+    margin-left: 5vw;
+  }
+  li {
+    list-style: none;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  div {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .social{
+    display: flex;
+    justify-content: space-around;
+
+    li {
+      font-size: 60px;
+      margin-right: 30px;
+    }
+  }
+}
