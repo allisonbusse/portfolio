@@ -1,7 +1,7 @@
 const projects = [
   {
     title: 'Healing Heart Bot',
-    image: 'http://www.allisonbusse.com/src/assets/heart-bot.png',
+    image: 'https://raw.githubusercontent.com/allisonbusse/portfolio/master/src/assets/heart-bot.png',
     description: 'Twitter bot that sends uplifting messages, songs, or gifs to those in need of some inspiration. Tweet at the bot with your mood and receive a supportive message, or share your own advice that will then be tweeted out to others. REST API and front end.',
     deployed: 'https://heartbotbb.herokuapp.com/',
     github: 'https://github.com/Healing-HeartBot/healing-heart-bot'
