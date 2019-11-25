@@ -1,14 +1,14 @@
 const projects = [
   {
     title: 'Healing Heart Bot',
-    image: '../../assets/heart-bot.png',
+    image: '/assets/heart-bot.png',
     description: 'Twitter bot that sends uplifting messages, songs, or gifs to those in need of some inspiration. Tweet at the bot with your mood and receive a supportive message, or share your own advice that will then be tweeted out to others. REST API and front end.',
     deployed: 'https://heartbotbb.herokuapp.com/',
     github: 'https://github.com/Healing-HeartBot/healing-heart-bot'
   },
   {
     title: 'Tone Check',
-    image: '../../assets/tone-check.png',
+    image: '/assets/tone-check.png',
     description: 'Full-stack app that lets users analyze the mood of inputted text at the document and sentence levels, and then save analyzed messages to their profile.',
     deployed: 'http://tone-check.herokuapp.com/',
     github: 'https://github.com/mood-mangoes/mood-mangoes.github.io'
