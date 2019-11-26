@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './PortfolioItem.css';
 
+
 const PortfolioItem = ({ title, image, description, deployed, github }) => (
   <section className={styles.PortfolioItem}>
     <a href={deployed} target='blank'><img src={image}></img></a>
