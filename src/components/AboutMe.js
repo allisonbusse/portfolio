@@ -8,7 +8,8 @@ const AboutMe = () => (
       <p>Technical writer turned developer. Logical thinker. 
         <br /><span className={styles.two}>Creative problem-solver. Efficiency aficionado.</span>
         <br /><span className={styles.three}>Fan of simple, intuitive design and clear code.</span>
-        <br /><span className={styles.four}>Pair coding enthusiast. Crossword nerd.</span></p>
+        <br /><span className={styles.four}>Pair coding enthusiast. Crossword nerd.</span>
+        <br /><span className={styles.five}>Based in Portland, OR.</span></p>
     </div>
 
   </section>

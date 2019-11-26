@@ -25,8 +25,8 @@ const PortfolioSection = () => {
 
   return (
     <section className={styles.PortfolioSection}>
-      <h2>What I've Made</h2>
-      <div className={styles.flex}>
+      <h2 data-aos="fade-right">What I've Made</h2>
+      <div data-aos="fade-left" className={styles.flex}>
         <button onClick={() => decrement()}>←</button>
         <PortfolioItem
           {...projects[index]}

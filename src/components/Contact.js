@@ -13,7 +13,7 @@ const Contact = () => {
         <ul>
           <li><FontAwesomeIcon icon={faPhone} /> 516-232-3001</li>
           <li><a href='mailto:allisonbusse@gmail.com'><FontAwesomeIcon icon={faEnvelope} /> allisonbusse@gmail.com</a></li>
-          <li><a href='https://github.com/allisonbusse/portfolio/raw/master/src/assets/AllisonBusse.pdf' target='blank'><FontAwesomeIcon icon={faFileAlt} /> View my resume</a></li>
+          <li><a href='https://drive.google.com/file/d/1krekFmC_aYtm-Cr7SFsODtGCR0CgSCIg/view?usp=sharing' target='blank'><FontAwesomeIcon icon={faFileAlt} /> View my resume</a></li>
         </ul>
         <ul className={styles.social}>
           <li><a href='http://www.linkedin.com/in/allisonbusse' target='blank'><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
