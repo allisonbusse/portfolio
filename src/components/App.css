@@ -31,3 +31,11 @@ body {
   
 }
 
+@media only screen and (max-width: 415px) {
+  body {
+    h2 {
+      font-size: 3em;
+    }
+  }
+  
+}

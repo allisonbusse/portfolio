@@ -21,3 +21,24 @@
     font-size: 1.3em;
   }
 }
+
+@media only screen and (max-width: 415px) {
+  .TechStack {
+    padding: 1.5em;
+    width: 80%;
+    margin: 0 auto;
+    
+    .flex {
+      justify-content: space-between;
+      div {
+        margin-right: 15px;
+        width: 35vw
+      }
+    }
+
+    h3 {
+      font-size: 1.5em;
+    }
+  }
+  
+}

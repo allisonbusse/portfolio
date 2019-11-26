@@ -37,7 +37,7 @@ const TechStack = () => {
             <li>Enzyme</li>
             <li>QUnit</li>
           </div>
-          <div data-aos="fade-up" data-aos-delay="500">
+          <div data-aos="fade-up" data-aos-delay="500" className={styles.small}>
             <h3>Tools</h3>
             <li>Heroku</li>
             <li>Netlify</li>

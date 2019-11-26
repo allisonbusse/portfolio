@@ -33,3 +33,19 @@
     }
   }
 }
+
+@media only screen and (max-width: 415px) {
+  .Contact {
+    padding: 10px 25px;
+    margin-top: 25px;
+      
+    div {
+      flex-direction: column;
+    }
+
+    li {
+      font-size: 1.5em;
+    }
+  }
+  
+}
