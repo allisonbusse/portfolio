@@ -62,7 +62,6 @@ module.exports = {
         use: {
           loader: 'url-loader',
           options: {
-            limit: 1000,
             fallback: 'file-loader',
             name: '[name][md5:hash].[ext]',
             outputPath: 'assets/',
