@@ -1,5 +1,12 @@
 const projects = [
   {
+    title: 'good manors',
+    image: 'https://raw.githubusercontent.com/allisonbusse/portfolio/master/src/assets/heart-bot.png',
+    description: 'Organization tool that allows users to keep all the relevant info about their home in one place. Homes are organized by drawers with seven card types available to store in each drawer.',
+    deployed: 'https://good-manors.netlify.com/',
+    github: 'https://github.com/Good-Manors'
+  },
+  {
     title: 'Healing Heart Bot',
     image: 'https://raw.githubusercontent.com/allisonbusse/portfolio/master/src/assets/heart-bot.png',
     description: 'Twitter bot that sends uplifting messages, songs, or gifs to those in need of some inspiration. Tweet at the bot with your mood and receive a supportive message, or share your own advice that will then be tweeted out to others. REST API and front end.',

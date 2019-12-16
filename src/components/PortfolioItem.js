@@ -8,7 +8,7 @@ const PortfolioItem = ({ title, image, description, deployed, github }) => (
     <a href={deployed} target='blank'><img src={image}></img></a>
     <div className={styles.text}>
       <h3>{title}</h3>
-      <p><a href={deployed} target='blank'>Deployed App</a> | <a href={github}>GitHub</a></p>
+      <p><a href={deployed} target='blank'>Deployed App</a> | <a href={github} target='blank'>GitHub</a></p>
       <p>{description}</p>
     </div>
   </section>

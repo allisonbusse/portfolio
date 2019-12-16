@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './AboutMe.css';
+import mountain from '../../assets/mountain.jpg';
 
 const AboutMe = () => (
   <section className={styles.AboutMe}>
