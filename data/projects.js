@@ -1,7 +1,7 @@
 const projects = [
   {
     title: 'good manors',
-    image: 'https://raw.githubusercontent.com/allisonbusse/portfolio/master/src/assets/heart-bot.png',
+    image: 'https://raw.githubusercontent.com/allisonbusse/portfolio/master/src/assets/manors.png',
     description: 'Organization tool that allows users to keep all the relevant info about their home in one place. Homes are organized by drawers with seven card types available to store in each drawer.',
     deployed: 'https://good-manors.netlify.com/',
     github: 'https://github.com/Good-Manors'
