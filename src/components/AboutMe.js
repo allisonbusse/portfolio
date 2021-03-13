@@ -3,7 +3,7 @@ import styles from './AboutMe.css';
 
 const AboutMe = () => (
   <section className={styles.AboutMe}>
-    <img src='https://raw.githubusercontent.com/allisonbusse/portfolio/master/src/assets/headshot.JPG'/>
+    <img src='https://raw.githubusercontent.com/allisonbusse/portfolio/master/src/assets/IMG_9447.JPG'/>
     <div className={styles.bio}>
       <p>Technical writer turned developer. Logical thinker. 
         <br /><span className={styles.two}>Creative problem-solver. Efficiency aficionado.</span>
