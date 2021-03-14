@@ -18,7 +18,7 @@ const Contact = () => {
         <ul className={styles.social} data-aos="fade-up" data-aos-delay="100">
           <li><a href='http://www.linkedin.com/in/allisonbusse' target='blank'><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
           <li><a href='http://www.twitter.com/idkallison' target='blank'><FontAwesomeIcon icon={faTwitter} /></a></li>
-          <li><a href='http://www.linkedin.com/in/allisonbusse' target='blank'><FontAwesomeIcon icon={faGithub} /></a></li>
+          <li><a href='https://github.com/allisonbusse' target='blank'><FontAwesomeIcon icon={faGithub} /></a></li>
         </ul>
       </div>
     </section>
