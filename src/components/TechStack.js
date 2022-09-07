@@ -20,6 +20,8 @@ const TechStack = () => {
             <li>React</li>
             <li>Redux</li>
             <li>Ember</li>
+            <li>MobX</li>
+            <li>RxJS</li>
           </div>
           <div data-aos="fade-up" data-aos-delay="200">
             <h3>Back End</h3>
@@ -37,6 +39,7 @@ const TechStack = () => {
             <li>Jest</li>
             <li>Enzyme</li>
             <li>Cypress</li>
+            <li>Webdriver</li>
             <li>React Testing Library</li>
             <li>QUnit</li>
           </div>
