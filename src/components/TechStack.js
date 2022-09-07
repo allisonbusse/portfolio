@@ -1,9 +1,7 @@
-import React from 'react';
-import styles from './TechStack.css';
-
+import React from "react"
+import styles from "./TechStack.css"
 
 const TechStack = () => {
-
   return (
     <>
       <section className={styles.TechStack}>
@@ -12,6 +10,7 @@ const TechStack = () => {
           <div data-aos="fade-up">
             <h3>Languages</h3>
             <li>JavaScript</li>
+            <li>TypeScript</li>
             <li>HTML</li>
             <li>CSS</li>
           </div>
@@ -54,10 +53,8 @@ const TechStack = () => {
           </div>
         </div>
       </section>
-
     </>
+  )
+}
 
-  );
-};
-
-export default TechStack;
+export default TechStack
